@@ -6,13 +6,11 @@
   GET /api/square?width=width&height=height&color=color
 ```
 
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `width`   | `int`    | width of the square        |
-| :-------- | :------- | :------------------------- |
-| `width`   | `int`    | width of the square        |
-| :-------- | :------- | :------------------------- |
-| `width`   | `int`    | width of the square        |
+| Parameter | Type       | Description                |
+| :-------- | :-------   | :------------------------- |
+| `width`   | `int`      | width of the square        |
+| `height`  | `int`      | height of the square       |
+| `color`   | `hex code` | color of the square        |
 
 #### Get item
 
