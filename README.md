@@ -9,6 +9,10 @@
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `width`   | `int`    | width of the square        |
+| :-------- | :------- | :------------------------- |
+| `width`   | `int`    | width of the square        |
+| :-------- | :------- | :------------------------- |
+| `width`   | `int`    | width of the square        |
 
 #### Get item
 
