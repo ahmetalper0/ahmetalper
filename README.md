@@ -2,7 +2,7 @@
 
 #### Get a square image as a png.
 
-```http
+```
   GET /api/square?width=width&height=height&color=color
 ```
 
