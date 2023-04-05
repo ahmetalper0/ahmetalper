@@ -1,9 +1,3 @@
-
-# ahmetalper API
-
-api denemesi
-
-
 ## API Reference
 
 #### Get all items
