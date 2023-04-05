@@ -1,6 +1,6 @@
 ## API Reference
 
-#### Get all items
+#### Get a square image as a png.
 
 ```http
   GET /api/items
@@ -8,7 +8,7 @@
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
+| `width`   | `int`    | width of the square        |
 
 #### Get item
 
