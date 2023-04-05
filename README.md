@@ -3,7 +3,7 @@
 #### Get a square image as a png.
 
 ```http
-  GET /api/items
+  GET /api/square?width=width&height=height&color=color
 ```
 
 | Parameter | Type     | Description                |
